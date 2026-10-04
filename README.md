@@ -1,6 +1,6 @@
 # Incremental Random Fourier Features Ridge Regression (iRFF-RR) for Robust sEMG Kinematics Decoding
 
-This project is a part of my Master Thesis in the Automation Engineering faculty of the University of Bologna supervised by Prof. Roberto Meattini and co-supervised by Dr. Alex Pasquali. Presented with the title: "Implementation and Analysis of Interactive Myocontrol Algorithms Based on Incremental Ridge Regression with Random Fourier Features".   
+## This project is a part of my Master Thesis in the Automation Engineering faculty of the University of Bologna supervised by Prof. Roberto Meattini and co-supervised by Dr. Alex Pasquali. Presented with the title: "Implementation and Analysis of Interactive Myocontrol Algorithms Based on Incremental Ridge Regression with Random Fourier Features".   
 
 
 An incremental learning and evaluation framework for surface electromyography (sEMG) continuous kinematic decoding under non-stationary conditions, physiological disturbances, and electrode faults.
